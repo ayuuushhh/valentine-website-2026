@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "I'm the luckiest fucker in the world! 🎉💝💖💝💓",
         message: "Now come get your flowers, and a huge kiss!",
-        emojis: "🎁💖❣️🫶💝❤️💕"  // These will bounce around
+        emojis: "🌹💐❣️🫶💝💕"  // These will bounce around
     },
 
     // Color scheme for the website
